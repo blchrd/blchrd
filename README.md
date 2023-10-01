@@ -17,7 +17,7 @@ My public repositories are not hosted on GitHub, this account is mainly for coll
 I have two main projects right now:
 
 * 🎧 [PlaylistShare](https://framagit.org/playlistshare/): A web application for sharing, rating, and commenting on the albums you listen to. Currently finishing the search feature and rewriting the backend in Go for learning purposes.
-* 🎵 [HNW Generator](https://framagit.org/blchrd/hnwgen): An experimental music generator designed for Harsh Noise Wall artists. All the features included is enough to use it as is, right now I try to extend the applied effect. I also start a long journey to [rewrite this project in Rust](), I always want to learn Rust.
+* 🎵 [HNW Generator](https://framagit.org/blchrd/hnwgen): An experimental music generator designed for Harsh Noise Wall artists. All the features included is enough to use it as is, right now I try to extend the applied effect. I also start a long journey to rewrite this project in Rust, I always want to learn Rust.
 
 ### Links
 
