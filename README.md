@@ -14,7 +14,9 @@ Besides all of that, I always try to improve myself in many areas, I'm eager to 
 
 ### Projects
 
-My public repositories are not hosted on GitHub, but on [Framagit](https://framagit.org/blchrd) - an instance of GitLab - this account is mainly for collaborating with other people. If you want to check my public works, [please check this link out](https://framagit.org/blchrd).
+My public repositories are not hosted on GitHub, but on [Framagit](https://framagit.org/blchrd) - an instance of GitLab - this account is mainly for collaborating with other people.
+
+If you want to check my public works, [please check this link out](https://framagit.org/blchrd).
 
 I have two main projects right now:
 
