@@ -2,15 +2,17 @@
 
 *Learner, developer, sometimes musician.*
 
-Hi there! I’m Thomas, a software and web developer with a passion for music and sound experimentation. I’ve been in this field since 2009, and I love delving into new projects.
+Hi there! I’m Thomas, a software and web developer with a passion for music and sound experimentation. I start to learn programming in 2007, and I never stopped since then, either learning or programming.
 
-In addition to my tech background, I spent 13 fulfilling years working in the health sector in France, creating software for retirement homes. However, I recently relocated to Canada in May 2023.
+I spent most of my career building software for the health sector in France, and I loved it. Now I’m just working my path into the canadian job market, go way out of my comfort zone and try to pursue my career here in Canada.
 
-My main techstack is PHP / Laravel and Javascript / ReactJS, with relational database as SQLite or MySQL.
+I’m proficient in PHP frameworks like Symfony and Laravel. I’m also diving into the world of Javascript, particularly ReactJS, while continuously improving my skills. Additionally, I worked with Java and Python, with the latter mainly used for scripting purposes.
 
-I also work with Java and Python, and currently learning Go and Rust.
+Currently, I’m engaged in two exciting side projects. One is PlaylistShare, a music tracking application I use daily, built using PHP Laravel and ReactJS. The other is an experimental music album generator for HNW (Harsh Noise Wall) artists, originally written in Java, I rewrote it in Rust a while ago.
 
-Besides all of that, I always try to improve myself in many areas, I'm eager to learn almost anything in any field, all the days.
+I thrive on learning new things daily, solving problems, and just improving myself overall.
+
+Beyond the tech world, I’m an avid music and video game enthusiast, an average electric guitar player, and I also enjoy spending time hiking and walking. And coffee. Is it really worth living without coffee?
 
 ### Projects
 
