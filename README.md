@@ -22,5 +22,5 @@ I have two main personal side projects right now:
 Here the other places you can find me:
 
 * 📓 [My personal blog](https://blchrd.eu)
-* 💼 [My LinkedIn page](https://www.linkedin.com/in/blchrd)
+* 💼 [My LinkedIn profile](https://www.linkedin.com/in/blchrd)
 * 💻 [My other works](https://framagit.org/blchrd)
