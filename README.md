@@ -2,9 +2,9 @@
 
 *Learner, developer, sometimes musician.*
 
-Hi there! I’m Thomas, a software and web developer with a passion for music and sound experimentation. I start to learn programming in 2007, and I never stopped since then, either learning or programming.
+Hi there! I’m Thomas, a software developer with a passion for music and sound experimentation.
 
-Beyond the tech world, I’m an avid music and video game enthusiast, an average electric guitar player, and I also enjoy spending time hiking and walking. And coffee. Is it really worth living without coffee?
+I’m an avid music and video game enthusiast, an average electric guitar player, and I also enjoy spending time hiking and walking. And coffee. Is it really worth living without coffee?
 
 ### Projects
 
@@ -15,6 +15,7 @@ If you want to check my other works, [please check this link out](https://framag
 I have two main personal side projects right now:
 
 * 🎧 [PlaylistShare](https://framagit.org/playlistshare/): A web application for sharing, rating, and commenting on the albums you listen to.
+* 🎵 [Procedural music generation](https://github.com/blchrd/procedural-music-generation): A small project to learn about music theory and try to generate some cool melodies.
 * 🎵 [HNW Generator](https://framagit.org/blchrd/rust-hnwgen/): An experimental music generator designed for Harsh Noise Wall artists written in Rust.
 
 ### Links
