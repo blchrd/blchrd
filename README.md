@@ -12,7 +12,7 @@ My main projects are not hosted on GitHub, but on [Framagit](https://framagit.or
 
 If you want to check my other works, [please check this link out](https://framagit.org/blchrd).
 
-I have two main personal side projects right now:
+I have three main personal side projects right now:
 
 * 🎧 [PlaylistShare](https://framagit.org/playlistshare/): A web application for sharing, rating, and commenting on the albums you listen to.
 * 🎵 [Procedural music generation](https://github.com/blchrd/procedural-music-generation): A small project to learn about music theory and try to generate some cool melodies.
